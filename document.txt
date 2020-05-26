@@ -1,1 +1,2 @@
-안녕하세요
+def sum(a,b)
+return a + b;
